@@ -1,0 +1,43 @@
+.page{
+    background-repeat: no-repeat;
+    padding: 2em 5em 0em 5em;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.pagination {
+    cursor: pointer;
+}
+
+.table {
+   width: 100%; 
+}
+
+.icon-star-wars {
+    background-image: url("../../assets/images/icon-star-wars-white.png");
+    background-repeat: no-repeat;
+    width: 3em;
+    height: 3em;
+}
+
+.icon-calculator {
+    background-image: url("../../assets/images/icon-star-wars-white.png");
+    background-repeat: no-repeat;
+    width: 3em;
+    height: 3em;
+}
+
+.btn-distance {
+    width: 50%;
+    border-radius: 0;
+}
+
+.spinner-border {
+    border: none;
+}
+
+.loading-yoda {
+    position: absolute;
+    top: 20em;
+}
